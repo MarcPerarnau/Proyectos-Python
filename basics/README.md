@@ -4,8 +4,8 @@ Esta carpeta contiene programas sencillos escritos en **Python**, pensados como 
 Son ejemplos cortos que muestran conceptos básicos como entrada/salida, condicionales, bucles y funciones.
 
 ## 📂 Contenido
-- `hello_world.py` → Primer programa en Python (imprime "Hello, World!").
-- `calculator.py` → Calculadora básica con suma, resta, multiplicación y división.
+- `hola_mundo.py` → Primer programa en Python (imprime "Hello, World!").
+- `calculadora.py` → Calculadora básica con suma, resta, multiplicación y división.
 - `fizzbuzz.py` → Ejercicio clásico que imprime números, "Fizz" y "Buzz" según múltiplos.
 - `par_impar.py` → Pide un número y dice si es par o impar.
 - `factorial.py` → Calcula el factorial de un número usando un bucle.
