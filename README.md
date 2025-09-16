@@ -7,6 +7,8 @@ Incluye desde ejercicios básicos hasta pequeños proyectos más avanzados.
 
 - `basics/` → Programas sencillos de introducción (Hola Mundo, calculadora, FizzBuzz, etc.).
 - `algorithms/` → Algoritmos de búsqueda y ordenación.
+- `oop/` → Ejercicios de Programación Orientada a Objetos (clases, herencia, polimorfismo, etc.).
+- `arrays/` → Ejercicios con arrays, listas y matrices.
 - `projects/` → Proyectos más completos (generador de contraseñas, app de tareas, etc.).
 - `tests/` → Pruebas unitarias con `pytest`.
 
